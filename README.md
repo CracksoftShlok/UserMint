@@ -1,6 +1,6 @@
 # Active Directory Username Generation for Pentesting
 
-<img src="https://github.com/CracksoftShlok/UserMint/blob/main/Banner.png?raw=true" alt="Alt text" style="width: 100%; height: auto;" />
+<img src="https://www.gitbook.com/cdn-cgi/image/dpr=2,width=760,onerror=redirect,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FU5NJ9G2s3Y0f89uS7RjN%252Fuploads%252FUcZjEfNxVALB3ozcZzS9%252Fimage.png%3Falt%3Dmedia%26token%3D678e0788-eed0-4f59-bc53-e69c3ae7b023" alt="Alt text" style="width: 100%; height: auto;" />
 
 In the world of cybersecurity and penetration testing, especially when it comes to Active Directory (AD), knowing usernames is half the battle. Once you have valid usernames, you can test for weak passwords, misconfigurations, or even launch attacks like AS-REP roasting or password spraying.
 
@@ -105,7 +105,7 @@ This isn’t just another tool.
 
 This is a **daily driver** — a script that saves time, boosts accuracy, and speeds up your workflow. Whether you’re a red teamer, blue teamer, security engineer, or student building your own lab, this tool gives you the edge when working with Active Directory.
 
-No fluff. Just function.
-And best of all, it's made with ❤️ and care for the infosec community.
+No fluff. Just function. And best of all,
+it's made with ❤️ and care for the infosec community.
 
 I Hope, You Love it!
